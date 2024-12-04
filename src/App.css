@@ -1,0 +1,15 @@
+.App{
+  background-color: rgb(0, 115, 128);
+  color: white;
+  border: 1px solid #dadde1;
+  border-radius: 4px;
+  max-width: 600px;
+  margin: 30px auto;
+padding: 15px;
+}
+
+.App footer {
+  font-size: 11px;
+  margin: 10px 0;
+  text-align: center;
+}
