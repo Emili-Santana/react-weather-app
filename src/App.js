@@ -7,11 +7,11 @@ function App() {
     <div className="App">
       <div className="container">
         <Weather />
-<p>teste</p>
+
 
     </div>
     <footer>
-<p>This project was coded by  <a href="https://github.com/Emili-Santana" target="_blank" rel="noreferrer">Emili Santana</a> and is open-sourced on <a href="https://github.com/Emili-Santana/react-weathe-" target="_blank" rel="noreferrer">Github</a> and hosted on <a href="https://react-best-weather-app.netlify.app/" target="_blank" rel="noreferrer"> Netlify </a>
+<p>This project was coded by  <a href="https://github.com/Emili-Santana" target="_blank" rel="noreferrer">Emili Santana</a> and is open-sourced on <a href="https://github.com/Emili-Santana/react-weather-app" target="_blank" rel="noreferrer">Github</a> and hosted on <a href="https://react-best-weather-app.netlify.app/" target="_blank" rel="noreferrer"> Netlify </a>
 </p>
 </footer>
     </div>
