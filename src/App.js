@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="container">
         <Weather />
-
+<p>teste</p>
 
     </div>
     <footer>
